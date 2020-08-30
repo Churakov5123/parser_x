@@ -1,0 +1,1 @@
+<h1>Парсер</h1><?php /**PATH C:\Users\ydalenshik\Desktop\OSPanel\domains\parserfarpos\resources\views/test.blade.php ENDPATH**/ ?>
